@@ -1,0 +1,21 @@
+There are 8 schools that are part of a juvenile justice facility and 52 magnet schools.
+
+In the JJ schools, there are 427 males and 71 females. In the magnet schools, there are approximately 21,000 males and females each. Far more students are enrolled in magnet schools than in JJ schools.
+
+The division between males and females in each race category is approximately even, which aligns with the overall US population.
+
+In the overall population, Hispanics account for 17% of the population, but they account for 26% of school population. The percentages of Asians (5%) and those who identify as two or more races (3%) are about the same. The very small percentage of Native Americans in the general US population (0.8%) is almost twice as large in schools (1.4%), although this percentage is still quite insignificant. The same is true for Hawaiian/Pacific Islander, which accounts for 0.2% in the general population and 0.4% in schools. The percentage of blacks in the overall population (12.6%) is very close to the percentage in schools (14%). The percentage of whites in the general population (62%) is quite  a bit larger than the percentage of whites in schools (50%). 
+
+
+---NEXT STEPS---
+
+Now that you've read in the files and found some interesting columns, you can dig in and analyze the data more. There are quite a few interesting angles you could explore:
+
+ - Review expulsions (which refers to when students are kicked out of school permanently). Columns like SCH_DISCWODIS_EXPWOE_HI_M and TOT_DISCWODIS_EXPZT_F contain information on expulsions.
+ - Explore gender and race differences in SAT scores. Columns like SCH_SATACT_HI_M contain this information.
+ - Figure out the racial and gender breakdowns for different types of schools, such as magnet schools.
+ - Determine how many students are in gifted and talented programs, or advanced placement classes.
+ - Investigate how racial differences in enrollment change from preschool to high school.
+ - Explore school bullying. The SCH_HBDISCIPLINED_DIS_HI_M column contains some of this information.
+
+We recommend that you download these files and work on your own machine. We also recommend that you download the full data set from data.gov. If you find anything interesting while exploring the data, please let us know!
